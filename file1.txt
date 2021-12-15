@@ -1,0 +1,9 @@
+Langkah Langkah push project ke github
+
+1.Buat project
+2.Buat file didalam project
+3.Git init
+4.Git add .
+5.Git commit -m "add project"
+6.Git remote 
+7.Git push -u origin main

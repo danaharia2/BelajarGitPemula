@@ -5,5 +5,5 @@ Langkah Langkah push project ke github
 3.Git init
 4.Git add .
 5.Git commit -m "add project"
-6.Git remote 
+6.Git remote add "terserah"
 7.Git push -u origin main

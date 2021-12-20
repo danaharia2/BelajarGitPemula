@@ -4,6 +4,6 @@ Langkah Langkah push project ke github
 2.Buat file didalam project
 3.Git init
 4.Git add .
-5.Git commit -m "add project"
+5.Git commit -m "add project"masuk ke website github
 6.Git remote add "terserah"
 7.Git push -u origin main
